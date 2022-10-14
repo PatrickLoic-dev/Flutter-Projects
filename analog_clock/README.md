@@ -6,7 +6,7 @@ A new Flutter project.
 
 - This project is a starting point for a Flutter application.
 
-A flutter both analog clock and digital clock.
+- A flutter both analog clock and digital clock.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
